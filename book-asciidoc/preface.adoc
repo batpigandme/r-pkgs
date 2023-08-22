@@ -79,7 +79,7 @@ devtools::session_info()
 #>  collate  C.UTF-8
 #>  ctype    C.UTF-8
 #>  tz       UTC
-#>  date     2023-08-14
+#>  date     2023-08-22
 #>  pandoc   2.9.2.1 @ /usr/bin/ (via rmarkdown)
 #> 
 #> ─ Packages ───────────────────────────────────────────────────────
@@ -119,11 +119,11 @@ devtools::session_info()
 #>  Rcpp          1.0.11     2023-07-06 [1] RSPM
 #>  remotes       2.4.2.1    2023-07-18 [1] RSPM
 #>  rlang         1.1.1      2023-04-28 [1] RSPM
-#>  rmarkdown     2.23       2023-07-01 [1] RSPM
+#>  rmarkdown     2.24       2023-08-14 [1] RSPM
 #>  roxygen2    * 7.2.3      2022-12-08 [1] RSPM
 #>  rstudioapi    0.15.0     2023-07-07 [1] RSPM
 #>  sessioninfo   1.2.2      2021-12-06 [1] RSPM
-#>  shiny         1.7.4.1    2023-07-06 [1] RSPM
+#>  shiny         1.7.5      2023-08-12 [1] RSPM
 #>  stringi       1.7.12     2023-01-11 [1] RSPM
 #>  stringr       1.5.0.9000 2023-08-11 [1] Github (tidyverse/stringr@08ff36f)
 #>  testthat    * 3.1.10     2023-07-06 [1] RSPM

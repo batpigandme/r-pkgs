@@ -79,7 +79,7 @@ devtools::session_info()
 #>  collate  C.UTF-8
 #>  ctype    C.UTF-8
 #>  tz       UTC
-#>  date     2023-11-14
+#>  date     2023-11-15
 #>  pandoc   2.9.2.1 @ /usr/bin/ (via rmarkdown)
 #> 
 #> ─ Packages ───────────────────────────────────────────────────────
@@ -123,8 +123,8 @@ devtools::session_info()
 #>  roxygen2    * 7.2.3      2022-12-08 [1] RSPM
 #>  sessioninfo   1.2.2      2021-12-06 [1] RSPM
 #>  shiny         1.7.5.1    2023-10-14 [1] RSPM
-#>  stringi       1.7.12     2023-01-11 [1] RSPM
-#>  stringr       1.5.0.9000 2023-11-01 [1] Github (tidyverse/stringr@0775e0c)
+#>  stringi       1.8.1      2023-11-13 [1] RSPM
+#>  stringr       1.5.0.9000 2023-11-15 [1] Github (tidyverse/stringr@7532bf7)
 #>  testthat    * 3.2.0      2023-10-06 [1] RSPM
 #>  urlchecker    1.0.1      2021-11-30 [1] RSPM
 #>  usethis     * 2.2.2      2023-07-06 [1] RSPM

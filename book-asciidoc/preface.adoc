@@ -79,7 +79,7 @@ devtools::session_info()
 #>  collate  C.UTF-8
 #>  ctype    C.UTF-8
 #>  tz       UTC
-#>  date     2024-02-10
+#>  date     2024-02-11
 #>  pandoc   2.9.2.1 @ /usr/bin/ (via rmarkdown)
 #> 
 #> ─ Packages ───────────────────────────────────────────────────────
@@ -124,7 +124,7 @@ devtools::session_info()
 #>  urlchecker    1.0.1      2021-11-30 [1] RSPM
 #>  usethis     * 2.2.2      2023-07-06 [1] RSPM
 #>  vctrs         0.6.5      2023-12-01 [1] RSPM
-#>  xfun          0.41       2023-11-01 [1] RSPM
+#>  xfun          0.42       2024-02-08 [1] RSPM
 #>  xml2          1.3.6      2023-12-04 [1] RSPM
 #>  xtable        1.8-4      2019-04-21 [1] RSPM
 #> 

@@ -72,14 +72,14 @@ devtools::session_info()
 #> ─ Session info ───────────────────────────────────────────────────
 #>  setting  value
 #>  version  R version 4.3.2 (2023-10-31)
-#>  os       Ubuntu 22.04.3 LTS
+#>  os       Ubuntu 22.04.4 LTS
 #>  system   x86_64, linux-gnu
 #>  ui       X11
 #>  language (EN)
 #>  collate  C.UTF-8
 #>  ctype    C.UTF-8
 #>  tz       UTC
-#>  date     2024-02-21
+#>  date     2024-02-22
 #>  pandoc   2.9.2.1 @ /usr/bin/ (via rmarkdown)
 #> 
 #> ─ Packages ───────────────────────────────────────────────────────
@@ -119,7 +119,7 @@ devtools::session_info()
 #>  sessioninfo   1.2.2      2021-12-06 [1] RSPM
 #>  shiny         1.8.0      2023-11-17 [1] RSPM
 #>  stringi       1.8.3      2023-12-11 [1] RSPM
-#>  stringr       1.5.1.9000 2023-11-16 [1] Github (tidyverse/stringr@a64b8f1)
+#>  stringr       1.5.1.9000 2024-02-22 [1] Github (tidyverse/stringr@a64b8f1)
 #>  testthat    * 3.2.1      2023-12-02 [1] RSPM
 #>  urlchecker    1.0.1      2021-11-30 [1] RSPM
 #>  usethis     * 2.2.2      2023-07-06 [1] RSPM

@@ -102,7 +102,7 @@ n_hard_deps <- function(pkg) {
 
 n_hard_deps(c("tidyverse", "devtools"))
 #> tidyverse  devtools 
-#>       113       101
+#>       113       100
 ----
 
 In contrast, several packages are specifically conceived as low-level packages that implement features that should work and feel the same across the whole ecosystem. At the time of writing, this includes:
@@ -206,7 +206,7 @@ sd
 #> function (x, na.rm = FALSE) 
 #> sqrt(var(if (is.vector(x) || is.factor(x)) x else as.double(x), 
 #>     na.rm = na.rm))
-#> <bytecode: 0x5608c3049c40>
+#> <bytecode: 0x5564a689c578>
 #> <environment: namespace:stats>
 ----
 

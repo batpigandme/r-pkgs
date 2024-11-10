@@ -48,10 +48,10 @@ If the `+DESCRIPTION+` contains `+LazyData: true+`, then datasets will be lazily
 [source,r,cell-code]
 ----
 lobstr::mem_used()
-#> 57.89 MB
+#> 57.90 MB
 library(nycflights13)
 lobstr::mem_used()
-#> 59.84 MB
+#> 59.85 MB
 
 invisible(flights)
 lobstr::mem_used()

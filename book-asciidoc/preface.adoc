@@ -79,7 +79,7 @@ devtools::session_info()
 #>  collate  C.UTF-8
 #>  ctype    C.UTF-8
 #>  tz       UTC
-#>  date     2025-04-24
+#>  date     2025-04-25
 #>  pandoc   3.1.3 @ /usr/bin/ (via rmarkdown)
 #>  quarto   1.6.43 @ /usr/local/bin/quarto
 #> 
@@ -87,7 +87,7 @@ devtools::session_info()
 #>  package     * version    date (UTC) lib source
 #>  brio          1.1.5      2024-04-24 [1] RSPM
 #>  cachem        1.1.0      2024-05-16 [1] RSPM
-#>  cli           3.6.4      2025-02-13 [1] RSPM
+#>  cli           3.6.5      2025-04-23 [1] RSPM
 #>  devtools    * 2.4.5      2022-10-11 [1] RSPM
 #>  digest        0.6.37     2024-08-19 [1] RSPM
 #>  ellipsis      0.3.2      2021-04-29 [1] RSPM
